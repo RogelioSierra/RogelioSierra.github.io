@@ -2,6 +2,9 @@ header h1{
     color: #a0a0a0
 
 }
+nav ul{
+    padding: 0;
+}
 nav ul li { 
     float: left;
 }
