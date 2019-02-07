@@ -1,0 +1,21 @@
+header h1{
+    color: #a0a0a0
+
+}
+nav ul li { 
+    float: left;
+}
+nav ul li {
+    display: block;
+    padding: .5rem 1rem;
+    background-color:cyan;
+}
+main h1{
+    clear: both;
+}
+main img{
+    float: right;
+}
+footer {
+    text-align: center;
+}
